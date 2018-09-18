@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="The independent Blockchain Insurance Alliance promotes the collaborative development of a standard.">
+    <meta name="keywords" content="decentralized autonomous insurance platform ico blockchain eth ethereum smartcontract cryptoinvesting cryptoinvestor ico icos dao daio InsurTech cryptocurrency decentralizedInsurance Insurance">
+    <meta name="author" content="Blockchain Insurance Alliance">
+
+    <title>Blockchain Insurance Alliance - Decentralized Future</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
+    <meta name="google-site-verification" content="xaYzL0tmik5T206ArgSBE-ySYw67AotbsQj5dKcbb_w" />
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+
+    <meta name="theme-color" content="#2C3E50">
+
+    <link rel="apple-touch-icon" sizes="57x57"
+          href="img/ico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60"
+          href="img/ico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72"
+          href="img/ico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76"
+          href="img/ico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114"
+          href="img/ico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="img/ico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144"
+          href="img/ico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="img/ico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="img/ico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"
+          href="img/ico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32"
+          href="img/ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96"
+          href="img/ico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16"
+          href="img/ico/favicon-16x16.png') %>">
+    <link rel="manifest" href="img/ico/manifest.json">
+</head>
+
+<body id="page-top">
+
+<%- partial("/shared/_header") %>
+<%- yield %>
+
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<!-- Contact Form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/main.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121122749-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-121122749-1');
+</script>
+
+</body>
+</html>
